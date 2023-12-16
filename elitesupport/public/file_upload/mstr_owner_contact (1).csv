@@ -1,0 +1,152 @@
+"id","vehicle_id","owner_id","contact_name","mob","flag","owner_contact_email","created_at","updated_at","reg","Email1","Email2","Email3"
+"1","1","1","Accuracy Shipping Pvt. Ltd","9888888888","1","account.tpt@aslindia.net","2021-04-01 11:47:25",NULL,"GJ12BV4557","account.tpt@aslindia.net","account.tpt@aslindia.net","account.tpt@aslindia.net"
+"146",NULL,"146","Agarwal Packers & Movers Ltd","7007558846","1","CONTROLROOM@AGARWALPACKERS.COM","2021-04-01 11:47:25","2021-05-06 14:44:10","NL01AD4726","controlroom@agarwalpackers.com","gayatri.jha@agarwalpackers.com",
+"23001","32792","22955","G V Gandhi","9490306189","1","srals1199@gmail.com","2021-05-06 21:16:49",NULL,NULL,NULL,NULL,NULL
+"23002",NULL,"8829","Parasmani Road Lines Pvt. Ltd","7014566748","1","raishprpl@gmail.com","2021-05-06 23:38:28","2021-05-07 15:35:08",NULL,NULL,NULL,NULL
+"23003",NULL,"8829","Parasmani Road Lines Pvt. Ltd","7014566748","1","raishprpl@gmail.com","2021-05-07 09:04:13","2021-05-07 15:34:58",NULL,NULL,NULL,NULL
+"23004",NULL,"18925","Vraj Cement Carrier LLP","9948180963","1","nvarma@vrajindia.com","2021-05-07 09:15:21","2021-05-07 15:35:32",NULL,NULL,NULL,NULL
+"23005",NULL,"18925","Vraj Cement Carrier LLP","9948180963","1","nvarma@vrajindia.com","2021-05-07 09:15:36","2021-05-07 15:35:45",NULL,NULL,NULL,NULL
+"23006","32793","22956","Vraj Cement Carrier LLP","9948180963","1","nvarma@vrajindia.com","2021-05-07 09:53:04",NULL,NULL,NULL,NULL,NULL
+"23007","32794","22957","Vraj Cement Carrier LLP","9948180963","1","nvarma@vrajindia.com","2021-05-07 09:53:22",NULL,NULL,NULL,NULL,NULL
+"23008","32794","22958","Vraj Cement Carrier LLP","9948180963","1","nvarma@vrajindia.com","2021-05-07 10:59:56",NULL,NULL,NULL,NULL,NULL
+"23010","32795","0","VIVEK","9094280960","1","VIVEK.K2@ASHOKLEYLAND.COM","2021-05-07 11:39:00",NULL,NULL,NULL,NULL,NULL
+"23012","32796","22961","ARVIND KORI","8004179920","1","N/A","2021-05-07 17:33:59",NULL,NULL,NULL,NULL,NULL
+"23013","134","1","Sri Venkatramana Transports","9688618000","1","svt.kumaresant@gmail.com","2021-05-07 19:44:30",NULL,NULL,NULL,NULL,NULL
+"372",NULL,"372","jagrat singh","9909969680","1","murrliiyer@gmail.com","2021-04-01 11:47:25","2021-05-05 18:07:00","GJ12Z0619","jatin@agrawalgroup.in;pranav@agrawalgroup.in;dinesh@agrawalgroup.in;logistics@agrawalgroup.in;singh.sukhjinder99@gmail.com;SAINI197212@gmail.com;murrliiyer@gmail.com;jagrajsp62@gmail.com;mjoshi.0523@g",,
+"675",NULL,"675","Ahmedabad Bengal Roadways Pvt. Ltd","1234567899","1","INFO@ABR.CO.IN","2021-04-01 11:47:25","2021-05-06 14:46:42","HR55F6377","INFO@ABR.CO.IN",,
+"1865","1865","1865","Aravali cargo movers Private Limited","7340623052","1","aravalicargo@gmail.com","2021-04-01 11:47:25",NULL,"RJ14GC5072","aravalicargo@gmail.com ","dr.mannu.choudhary@gmail.com",
+"2188",NULL,"2188","Choudhary Mover Pvt. Ltd","9958924600","1","mukesh1068@yahoo.com","2021-04-01 11:47:25","2021-05-06 14:56:14","HR55K5900","mukesh1068@yahoo.com",,
+"23014","32798","0","RAKSHMAN SUADAGAR","8766865187","1","0","2021-05-08 10:28:19",NULL,NULL,NULL,NULL,NULL
+"22971",NULL,"22453","maninder.singh2@goindigo.in","1234567899","1","maninder.singh2@goindigo.in, v.anup@goindigo.in","2021-05-06 14:57:45",NULL,NULL,NULL,NULL,NULL
+"22972",NULL,"3992","aadesh@jainexgroup.in","1234567899","1","maintenance@jainexgroup.in","2021-05-06 14:58:18",NULL,NULL,NULL,NULL,NULL
+"2399",NULL,"2399","Core Logistic  Company","1234567899","1","clc.namakkal10@gmail.com, clc.rameshbapu@gmail.com, clc.hoskote@gmail.com","2021-04-01 11:47:25","2021-05-06 14:38:44","KA218410","clc.namakkal10@gmail.com","clc.rameshbapu@gmail.com","clc.hoskote@gmail.com"
+"2840",NULL,"2840","Express Roadways Pvt. Ltd","7095159888","1","rajeshgupta@expressroadways.co.in","2021-04-01 11:47:25","2021-05-06 15:27:39","HR55N3868","rajeshgupta@expressroadways.co.in","workshop@expressroadways.co.in",
+"22991",NULL,"5930","MEGHA ENGINEERING AND INFRASTRUCTURES LTD","1234567899","1","kbollareddy@meilgroup.com","2021-05-06 15:28:31",NULL,NULL,NULL,NULL,NULL
+"22992",NULL,"6613","MY HOME CONSTRUCTIONS PVT. LTD","1234567899","1","rajasekhar.s@myhomeconstructions.com, mutyalu.k@myhomeconstructions.com","2021-05-06 15:29:06",NULL,NULL,NULL,NULL,NULL
+"22993",NULL,"6999","Navayuga Engineering Company Ltd","1234578999","1","madhavchinta@navayuga.com, radha09us@necltd.com","2021-05-06 15:30:04",NULL,NULL,NULL,NULL,NULL
+"22994",NULL,"8088","OMKAR TRANSLOGISTICS PVT. LTD","1234567899","1","abhishek@omkarcarriers.com","2021-05-06 15:30:31",NULL,NULL,NULL,NULL,NULL
+"22995",NULL,"9197","PARTHASARATHY TRANSPORTS PVT. LTD","9666683919","1","Sairamanreddyb@gmail.com","2021-05-06 15:30:59",NULL,NULL,NULL,NULL,NULL
+"22996",NULL,"16691","Thirumala Cabs (Orange )","1234567899","1","gkrishnareddy53@gmail.com, naveen@orangetravels.in","2021-05-06 15:31:47",NULL,NULL,NULL,NULL,NULL
+"22997",NULL,"3715","Heeralal Sukhlal Transport Company","1234567899","1","heeralalsukhlal@rediffmail.com","2021-05-06 15:32:05",NULL,NULL,NULL,NULL,NULL
+"22998",NULL,"7759","New Morning Star Travels","1234567899","1","ashok@mstbus.in, satish@mstbus.in","2021-05-06 15:32:33",NULL,NULL,NULL,NULL,NULL
+"4660",NULL,"4660","Khaitan Logistics Pvt. Ltd","9116160810","1","pramjeet.singh@khaitanmail.com","2021-04-01 11:47:25","2021-05-07 15:34:31","RJ14GH1815","service@khaitanmail.com","pramjeet.singh@khaitanmail.com","Ajay.gaur@khaitanmail.com"
+"4662",NULL,"4660","Khaitan Logistics Pvt. Ltd","9116160810","1","pramjeet.singh@khaitanmail.com, service@khaitanmail.com, Ajay.gaur@khaitanmail.com","2021-04-01 11:47:25","2021-05-06 15:11:00","RJ14GH3092","service@khaitanmail.com","pramjeet.singh@khaitanmail.com","Ajay.gaur@khaitanmail.com"
+"5842","5842","5842","Mata Road Carrier Pvt. Ltd","9861860315","1","ayush.mrcpl@gmail.com","2021-04-01 11:47:25",NULL,"CG04LS5200","ayush.mrcpl@gmail.com",,
+"7289",NULL,"7289","New Jai Shanker Transport Co","9694681120","1","njstcrlpl@gmail.com, narender.saini5145@gmail.com","2021-04-01 11:47:25","2021-05-06 15:12:48","RJ14GC1242","njstcrlpl@gmail.com","narender.saini5145@gmail.com",
+"7964",NULL,"7964","NTC Logistics India Pvt. Ltd","1234567899","1","cscmaint@ntcgroup.in, pugazhendhi.buchi@ntcgroup.in","2021-04-01 11:47:25","2021-05-06 14:40:21","NL02G3810","cscmaint@ntcgroup.in","pugazhendhi.buchi@ntcgroup.in",
+"8829","8829","8829",,,"1","0","2021-04-01 11:47:25",NULL,"MH04EY2440","syedprpl@gmail.com;raishprpl@gmail.com","manish@prplmail.com;Amarsurwadeprpl@gmail.com",
+"22925","32778","22916","Ahemed rafik","9655219288","1","ahemed123@gmail.com","2021-05-02 10:38:35",NULL,NULL,NULL,NULL,NULL
+"10605",NULL,"10605","Dhirender Vijay","9728882005","1","dhirender@prasannapurple.com, vijayd@prasannapurple.com","2021-04-01 11:47:25","2021-05-06 15:20:33","MH14DM9762","dhirender@prasannapurple.com","vijayd@prasannapurple.com",
+"10833",NULL,"10833","PRM Roadways Pvt. Ltd","123456789","1","info@prmtransport.com","2021-04-01 11:47:25","2021-05-06 14:42:08","TN21AB9490","info@prmtransport.com",,
+"11615",NULL,"11615","R Sai Logistics India Pvt. Ltd","7089960000","1","amc@rsailogistics.com","2021-04-01 11:47:25","2021-05-06 14:58:54","NL01Q4080","deepakarora@rsailogistics.com ","amc@rsailogistics.com",
+"23009","32793","22959","Vraj Cement Carrier LLP","9948180963","1","nvarma@vrajindia.com","2021-05-07 11:29:33",NULL,NULL,NULL,NULL,NULL
+"22976",NULL,"22950","sohanlal@ritcologistics.com","1234567899","1","sohanlal@ritcologistics.com, dineshkumar@ritcologistics.com, charansingh@ritcologistics.com","2021-05-06 15:02:25",NULL,NULL,NULL,NULL,NULL
+"22977",NULL,"17293","srs.lho@tciscs.com;soumya.mishra@tciscs.com","1234567899","1","srs.lho@tciscs.com, soumya.mishra@tciscs.com, vts.lho@tciscs.com, vivek.singh@tciscs.com, kishan.bhakar@tciscs.com","2021-05-06 15:04:24",NULL,NULL,NULL,NULL,NULL
+"22978",NULL,"17535","srinivasan.bhavan@varuna.net","1234567899","1","srinivasan.bhavan@varuna.net, ashutosh.verma@varuna.net","2021-05-06 15:05:06",NULL,NULL,NULL,NULL,NULL
+"22979",NULL,"19238","bapu@vrllogistics.com","1234567899","1","bapu@vrllogistics.com, aldchbl@vrllogistics.com","2021-05-06 15:06:20",NULL,NULL,NULL,NULL,NULL
+"22980",NULL,"1865","aravalicargo@gmail.com","1234567899","1","aravalicargo@gmail.com, dr.mannu.choudhary@gmail.com","2021-05-06 15:06:47",NULL,NULL,NULL,NULL,NULL
+"22981",NULL,"3380","amit.jangir@hginfra.com","1234567899","1","amit.jangir@hginfra.com, gaurav.sharma@hginfra.com","2021-05-06 15:07:21",NULL,NULL,NULL,NULL,NULL
+"22999","32791","22952","9467208180","9467208180","1","narender96@gmail.com","2021-05-06 18:27:57",NULL,NULL,NULL,NULL,NULL
+"11975",NULL,"11975","Rajesh Cargo Movers India Pvt. Ltd","9870907121","1","prashant.shetkar@rajeshrlines.com, rajesh.rane@rajeshrlines.com, kalamboli@rajeshrlines.com","2021-04-01 11:47:25","2021-05-06 15:19:58","MH46BM1574","prashant.shetkar@rajeshrlines.com","rajesh.rane@rajeshrlines.com","kalamboli@rajeshrlines.com"
+"12156",NULL,"12156","Ritco Logistics Pvt. Ltd","7482002206","1","dineshkumar@ritcologistics.com, charansingh@ritcologistics.com","2021-04-01 11:47:25","2021-05-07 15:33:47","UP78CT0315","dineshkumar@ritcologistics.com",,
+"22974",NULL,"22948","janmejaysingh@ritcologistics.com","124567899","1","janmejaysingh@ritcologistics.com, dineshkumar@ritcologistics.com, charansingh@ritcologistics.com","2021-05-06 15:00:36",NULL,NULL,NULL,NULL,NULL
+"12959",NULL,"12959","S R S Travels","1234567899","1","workshopsrs@gmail.com","2021-04-01 11:47:25","2021-05-06 13:25:53","TN22CK3850","workshopsrs@gmail.com",,
+"13743",NULL,"13743","Shree Hatkeshwara Translines Pvt. Ltd","9326956965","1","AMIT@SHREEHATKESHWARA.COM","2021-04-01 11:47:25","2021-05-06 15:20:50","MH12MV0998","amit@shreehatkeshwara.com","bhushan@shreehatkeshwara.com",
+"23011","32796","22960","ARVIND KORI","8004179920","1","0","2021-05-07 17:12:47",NULL,NULL,NULL,NULL,NULL
+"22987",NULL,"372","Agrawal Roadlines","1234567899","1","singh.sukhjinder99@gmail.com, SAINI197212@gmail.com, murrliiyer@gmail.com, jagrajsp62@gmail.com, mjoshi.0523@gmail.com","2021-05-06 15:25:36",NULL,NULL,NULL,NULL,NULL
+"22988",NULL,"5655","documents@mrshahgroup.com","124567899","1","documents@mrshahgroup.com","2021-05-06 15:26:14",NULL,NULL,NULL,NULL,NULL
+"22989",NULL,"4131","Jothi LPG Transport","1234567899","1","jothilorryservice@yahoo.com, jothilpgtransport@gmail.com","2021-05-06 15:26:47",NULL,NULL,NULL,NULL,NULL
+"14889",NULL,"14889","Shree Rama Roadways","1234567899","1","srr.rkbatra@gmail.com","2021-04-01 11:47:25","2021-05-06 14:45:27","CG04HP8732","srr.rkbatra@gmail.com",,
+"15397","15397","15397","Sri Ramanjaneya Lorry Service","9494464692","1","srals1199@gmail.com","2021-04-01 11:47:25",NULL,"AP7Y6779","srals1199@gmail.com",,
+"15731",NULL,"15731","Sri Venkatramana Transports","9688618000","1","svt.vijayakumar@gmail.com","2021-04-01 11:47:25","2021-05-06 15:27:22","TN37AQ4929","svt.kumaresant@gmail.com","svt.vijayakumar@gmail.com","svt.yogan@gmail.com"
+"15970",NULL,"15970","TANUSHREE LOGISTICS PRIVATE LIMITED","7726010027","1","Rajeevsharma8799@gmail.com, Randm@tlpl.net, rohitprajapati847@gmail.com","2021-04-01 11:47:25","2021-05-06 15:14:32","BR26GA5197","Rajeevsharma8799@gmail.com;Randm@tlpl.net","rohitprajapati847@gmail.com",
+"15971",NULL,"15970","Rajeev Sharma","7726010027","1","Rajeevsharma8799@gmail.com, Randm@tlpl.net, rohitprajapati847@gmail.com","2021-04-01 11:47:25","2021-05-06 15:14:46","CG22C0539","Rajeevsharma8799@gmail.com;Randm@tlpl.net","rohitprajapati847@gmail.com",
+"22982",NULL,"9556","hopurchase1@pncinfratech.com","1234567899","1","hopurchase1@pncinfratech.com","2021-05-06 15:15:10",NULL,NULL,NULL,NULL,NULL
+"22983",NULL,"1291","mechanical.ho@apcoinfra.com","1234567899","1","mechanical.ho@apcoinfra.com, mechanical@apcoinfra.com","2021-05-06 15:15:54","2021-05-06 15:16:14",NULL,NULL,NULL,NULL
+"22984",NULL,"12571","venkatdurai@gmail.com","1234567899","1","blacksir1991@gmail.com, skphyaha@gmail.com, venkatdurai@gmail.com","2021-05-06 15:17:16",NULL,NULL,NULL,NULL,NULL
+"22985",NULL,"16834","thunaivan.nkl@gmail.com","1234567899","1","thunaivan.nkl@gmail.com","2021-05-06 15:17:46",NULL,NULL,NULL,NULL,NULL
+"18596",NULL,"18596","Anil","9354938662","1","anil.kumar@vscpl.in","2021-04-01 11:47:25","2021-05-06 15:05:50","HR55Y9035","anil.kumar@vscpl.in/anilnice92@gmail.com",,
+"18925","18925","18925","Vraj Cement Carrier LLP","9948180963","1","nvarma@vrajindia.com","2021-04-01 11:47:25",NULL,"MH46AR7467","nvarma@vrajindia.com",,
+"22226",NULL,"22226","Best Roadways Ltd","9812279655","1","sangwari@brl.in, container@brl.in, bhimsharma@brl.in","2021-04-01 11:47:25","2021-05-06 15:18:18","MH04EL9735","sangwari@brl.in","container@brl.in","bhimsharma@brl.in"
+"22672",NULL,"3534","Heavy transport","1234567899","1","dalbirsingh.sons@rediffmail.com","2021-04-01 11:47:25","2021-05-06 15:22:28","MP06GA2228","
+harshfinance.consultancy@gmail.com",,
+"22888","32768","22888","driver","9877665498","1","44646@gmil.com","2021-04-09 10:34:58",NULL,NULL,NULL,NULL,NULL
+"22889","32769","22889","Nitesh","9380250691","1","niteshravi64@gmail.com","2021-04-09 10:41:06",NULL,NULL,NULL,NULL,NULL
+"22890","32770","22890","UMME HAANI","7259054552","1","test@gmail.com","2021-04-09 10:50:08",NULL,NULL,NULL,NULL,NULL
+"22891","32770","22891","UMME HAANI","7259054552","1","UMME.HAANI@GMAIL.COM","2021-04-09 11:12:26",NULL,NULL,NULL,NULL,NULL
+"22892","32769","22892","Praveen","8095452807","1","test@al","2021-04-09 11:18:49",NULL,NULL,NULL,NULL,NULL
+"22893","32770","22893","ARSHIYA","8050805078","1","SOLUTION@TEST.COM","2021-04-09 11:26:31",NULL,NULL,NULL,NULL,NULL
+"22894","32771","22894","Madhur Bhati","9818392956","1","madhur_feb14@hotmail.com","2021-04-26 15:14:12",NULL,NULL,NULL,NULL,NULL
+"22895",NULL,"22902","acc.tdp@vrajindia.com","1234567899","1","acc.tdp@vrajindia.com","2021-04-30 17:39:39",NULL,NULL,NULL,NULL,NULL
+"22896",NULL,"22902","nvarma@vrajindia.com","1234567899","1","nvarma@vrajindia.com","2021-04-30 17:40:32",NULL,NULL,NULL,NULL,NULL
+"22897",NULL,"22901","dkmishra@vrajindia.com","1234567899","1","dkmishra@vrajindia.com","2021-04-30 17:41:10",NULL,NULL,NULL,NULL,NULL
+"22898",NULL,"22900","acc.bellary@vrajindia.com","1234567899","1","acc.bellary@vrajindia.com","2021-04-30 17:42:07",NULL,NULL,NULL,NULL,NULL
+"22899",NULL,"22899","nvarma@vrajindia.com","1245678999","1","nvarma@vrajindia.com","2021-04-30 17:43:14",NULL,NULL,NULL,NULL,NULL
+"22900",NULL,"22898","asturakhia@vrajindia.com","1234564565","1","asturakhia@vrajindia.com","2021-04-30 17:44:18",NULL,NULL,NULL,NULL,NULL
+"22901",NULL,"22897","acc.gng@vrajindia.com","2222222222","1","acc.gng@vrajindia.com","2021-04-30 17:45:19",NULL,NULL,NULL,NULL,NULL
+"22902",NULL,"22896","vcc.ctp@vrajindia.com","3333333333","1","vcc.ctp@vrajindia.com","2021-04-30 17:46:32",NULL,NULL,NULL,NULL,NULL
+"22903",NULL,"22895","acc.ark@vrajindia.com","1232323222","1","acc.ark@vrajindia.com","2021-04-30 17:47:21",NULL,NULL,NULL,NULL,NULL
+"22904",NULL,"22896","nvarma@vrajindia.com","1111111111","1","nvarma@vrajindia.com","2021-04-30 17:48:18",NULL,NULL,NULL,NULL,NULL
+"22905",NULL,"22895","nvarma@vrajindia.com","3333333333","1","nvarma@vrajindia.com","2021-04-30 17:50:01",NULL,NULL,NULL,NULL,NULL
+"22906",NULL,"22897","nvarma@vrajindia.com","3333333333","1","nvarma@vrajindia.com","2021-04-30 17:51:15",NULL,NULL,NULL,NULL,NULL
+"22907",NULL,"22898","nvarma@vrajindia.com","3333333333","1","nvarma@vrajindia.com","2021-04-30 17:52:12",NULL,NULL,NULL,NULL,NULL
+"22908",NULL,"22900","nvarma@vrajindia.com","6666666666","1","nvarma@vrajindia.com","2021-04-30 17:53:07",NULL,NULL,NULL,NULL,NULL
+"22909",NULL,"22901","nvarma@vrajindia.com","2222222222","1","nvarma@vrajindia.com","2021-04-30 17:53:59",NULL,NULL,NULL,NULL,NULL
+"22910",NULL,"22902","nvarma@vrajindia.com","6666666666","1","nvarma@vrajindia.com","2021-04-30 17:55:03",NULL,NULL,NULL,NULL,NULL
+"22970",NULL,"2444","store45@dgfc.in","1234567899","1","store45@dgfc.in","2021-05-06 14:56:40","2021-05-06 14:56:59",NULL,NULL,NULL,NULL
+"22911","32772","0","KARANJEET SINGH","9935781556","1","JAJAPUR@SUPERSONICCARRER.COM","2021-05-01 14:18:37",NULL,NULL,NULL,NULL,NULL
+"22912","32773","22904","manish","9821956683","1","na@gmail.com","2021-05-01 14:47:31",NULL,NULL,NULL,NULL,NULL
+"22913","32774","22905","SENDEL VEL","9976077082","1",,"2021-05-01 15:03:18",NULL,NULL,NULL,NULL,NULL
+"22914","32772","0","KARANJEET SINGH","9935781556","1","JAJAPUR@SUPERSONICCARRER.COM","2021-05-01 15:23:16",NULL,NULL,NULL,NULL,NULL
+"22915","32775","0","SENDEL VEL","9976077082","1","sendel152@gmail.com","2021-05-01 15:32:20",NULL,NULL,NULL,NULL,NULL
+"22916","32775","22907","SENDEL VEL","9976077082","1","sendel152@gmail.com","2021-05-01 15:32:35",NULL,NULL,NULL,NULL,NULL
+"22975",NULL,"22949","vivektyagi@ritcologistics.com","1234567899","1","vivektyagi@ritcologistics.com, dineshkumar@ritcologistics.com, charansingh@ritcologistics.com","2021-05-06 15:01:10",NULL,NULL,NULL,NULL,NULL
+"22990",NULL,"4396","KFT Logistics","1234567899","1","kftworkshop@gmail.com","2021-05-06 15:28:09",NULL,NULL,NULL,NULL,NULL
+"22917","32776","22909","SURYA","8838240161","1",,"2021-05-02 08:09:11",NULL,NULL,NULL,NULL,NULL
+"22918","32777","22910","VIJAYA SINGH","9532070609","1",,"2021-05-02 09:11:08",NULL,NULL,NULL,NULL,NULL
+"22919","32778","22911","AHEMED RAFIK","9655219288","1","ahemded123@gmail.com","2021-05-02 09:49:49",NULL,NULL,NULL,NULL,NULL
+"22920",NULL,"12156","Dinesh Kumar","9454578048","1","dineshkumar@ritcologistics.com, charansingh@ritcologistics.com","2021-05-02 09:58:45","2021-05-07 15:32:39",NULL,NULL,NULL,NULL
+"22922","32778","22914","bittu","8222003708","1",,"2021-05-02 10:25:33",NULL,NULL,NULL,NULL,NULL
+"22923","32778","0","AHEMED RAFIK","9655219288","1","AHEMED123@GMAIL.COM","2021-05-02 10:25:41",NULL,NULL,NULL,NULL,NULL
+"22924","32778","22915","AHEMED RAFIK","9655219288","1","AHEMED123@GMAIL.COM","2021-05-02 10:30:27",NULL,NULL,NULL,NULL,NULL
+"22926","32778","22917","bittu","8222003708","1",,"2021-05-02 11:25:39",NULL,NULL,NULL,NULL,NULL
+"22927","32778","22918","bittu","8222003708","1","rrbbc09@gamail.com","2021-05-02 12:08:01",NULL,NULL,NULL,NULL,NULL
+"22928","32778","0","SUDHAKARAN","9003070346","1",,"2021-05-02 13:16:38",NULL,NULL,NULL,NULL,NULL
+"22929","32778","22919","SUDHAKARAN","9003070346","1","sudhakar123@gmail.com","2021-05-02 13:16:49",NULL,NULL,NULL,NULL,NULL
+"22930","32778","22921","SUDHAKARAN","9003070346","1","SUDHAKAR123@GMAIL.COM","2021-05-02 13:53:11",NULL,NULL,NULL,NULL,NULL
+"22931","32778","0","liyaqauth ali","8094345971","1",,"2021-05-02 15:53:30",NULL,NULL,NULL,NULL,NULL
+"22932","32778","22922","liyaqauth ali","8094345971","1",,"2021-05-02 15:54:59",NULL,NULL,NULL,NULL,NULL
+"22933","32778","22923","janmejey","8951065178","1",,"2021-05-02 16:13:12",NULL,NULL,NULL,NULL,NULL
+"22934","32778","22924","LIYAKATH ALI","6376809547","1",,"2021-05-02 16:36:37",NULL,NULL,NULL,NULL,NULL
+"22936","32778","22925",,"9813095475","1","ACCOUNTS.BIJAPUR@TVS.IN","2021-05-02 18:13:59",NULL,NULL,NULL,NULL,NULL
+"22937","32778","22926","islam","9926102122","1","accounts.bijapur@tvs.in","2021-05-02 18:21:02",NULL,NULL,NULL,NULL,NULL
+"22938","32778","22927","Express Roadways Pvt","8722798526","1","expressroadways@gmail.com","2021-05-02 23:37:24",NULL,NULL,NULL,NULL,NULL
+"22939","32778","0","RAM KISHAN","8218617984","1",,"2021-05-03 10:49:11",NULL,NULL,NULL,NULL,NULL
+"22986",NULL,"22942","Amar","1234567899","1","syedprpl@gmail.com, raishprpl@gmail.com, manish@prplmail.com, Amarsurwadeprpl@gmail.com","2021-05-06 15:19:02",NULL,NULL,NULL,NULL,NULL
+"22940","32778","22928","RAM KISHAN","8218617984","1","ANC@RSAILOGISTIC.COM","2021-05-03 10:55:14",NULL,NULL,NULL,NULL,NULL
+"22942",NULL,"372","AGARWAL ROADLINES PVT","9825226777","1","jatin@agrawalgroup.in","2021-05-03 11:55:57","2021-05-06 15:24:30",NULL,NULL,NULL,NULL
+"22943","32778","0","R SAI LOGISTICS","6232640996","1",,"2021-05-03 12:01:23",NULL,NULL,NULL,NULL,NULL
+"22944","32778","22930","R SAI LOGISTICS","6232640996","1","sailogistics@gmail.com","2021-05-03 12:14:50",NULL,NULL,NULL,NULL,NULL
+"22945","32778","22931","r sai logistics","8218617984","1",,"2021-05-03 12:32:05",NULL,NULL,NULL,NULL,NULL
+"22946","32778","22932","KRISHAN ATUO CENTER","9099072094","1","murrliiyer@gmail.com","2021-05-03 12:49:43",NULL,NULL,NULL,NULL,NULL
+"22969","32778","22951","Vraj Cement Carrier LLP","9948180963","1","nvarma@vrajindia.com","2021-05-06 14:11:59",NULL,NULL,NULL,NULL,NULL
+"22948","32779","22933","KRISHAN ATUO CENTER","9099072094","1","murrliiyer@gmail.com","2021-05-03 14:46:43",NULL,NULL,NULL,NULL,NULL
+"22949","32780","22934","abhayji","9340211631","1","amc@rsailogistics.com","2021-05-03 16:12:21",NULL,NULL,NULL,NULL,NULL
+"22950","0","0","RAVIRAJ YADHAV","7010167966","1","ravirajyadhav123@gmail.com","2021-05-03 17:33:18",NULL,NULL,NULL,NULL,NULL
+"22951","0","0","RAVIRAJ YADHAV","7010167966","1","ravirajyadhav123@gmail.com","2021-05-03 17:48:39",NULL,NULL,NULL,NULL,NULL
+"22968","32778","22946","BP SAINI","9099072080","1","saini197212@gmail.com","2021-05-06 13:46:29",NULL,NULL,NULL,NULL,NULL
+"22953","0","22937","MAHESH","9449867241","1",,"2021-05-04 10:58:43",NULL,NULL,NULL,NULL,NULL
+"22973",NULL,"22947","souravkumar@ritcologistics.com","1234567899","1","souravkumar@ritcologistics.com, dineshkumar@ritcologistics.com, charansingh@ritcologistics.com","2021-05-06 14:59:58",NULL,NULL,NULL,NULL,NULL
+"22954","32781","22938","JABASTIN","7094436483","1","sebaheinsam1997@gamil.com","2021-05-04 11:30:31",NULL,NULL,NULL,NULL,NULL
+"22955","32782","22939","JEBASTIN","7094436483","1","sebaheinsam1997@gamil.com","2021-05-04 12:50:50",NULL,NULL,NULL,NULL,NULL
+"22956","0","22940","MUSTHAFA","9972343236","1","musthafa123@gmail.com","2021-05-04 13:35:26",NULL,NULL,NULL,NULL,NULL
+"22957","32778","0","JEBASTIN","7094436483","1","chandrashekar369176@gmail.com","2021-05-04 15:29:49",NULL,NULL,NULL,NULL,NULL
+"22958","32784","22941","jebstin","7094436483","1",,"2021-05-04 16:05:59",NULL,NULL,NULL,NULL,NULL
+"22959","0","0","VISHNU","9140231287","1",,"2021-05-04 17:11:54",NULL,NULL,NULL,NULL,NULL
+"22960","32785","22942","VISHNU","9140231287","1",NULL,"2021-05-04 17:12:34",NULL,NULL,NULL,NULL,NULL
+"22963",NULL,"8829","Parasmani Road Lines Pvt. Ltd","7014566748","1","raishprpl@gmail.com","2021-05-05 13:52:26","2021-05-07 15:36:15",NULL,NULL,NULL,NULL
+"22962",NULL,"12156","Ritco Logistics Pvt. Ltd","8583827682","1","souravkumar@ritcologistics.com, dineshkumar@ritcologistics.com, charansingh@ritcologistics.com","2021-05-05 08:06:21","2021-05-08 11:46:35",NULL,NULL,NULL,NULL
+"22967","32789","22945","ramesh","6385163096","1","rameshdevaraj.nkl@gmail.com","2021-05-06 12:06:36",NULL,NULL,NULL,NULL,NULL
+"22965","32786","22943","raj saini","9099072080","1","agarwal@agawalgroup.in","2021-05-05 17:11:14",NULL,NULL,NULL,NULL,NULL
+"22966","32787","0","sourab agarwal","8342027049","1","na@gmail.com","2021-05-06 08:50:10",NULL,NULL,NULL,NULL,NULL
+"23000","0","22953","G V Gandhi","9490306189","1","srals1199@gmail.com","2021-05-06 20:34:27",NULL,NULL,NULL,NULL,NULL
